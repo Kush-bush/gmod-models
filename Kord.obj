@@ -1,7 +1,5 @@
 # Blender v2.76 (sub 0) OBJ File: ''
-# www.blender.org
-mtllib Kord_textured.mtl
-o 3P_PW_Kord_0
+o Kord
 v 0.487661 -1.387058 -2.682193
 v 0.307780 -1.387059 -1.099252
 v 0.487661 -0.163877 -2.682193
