@@ -1,7 +1,6 @@
 # Blender 5.3.0
 # www.blender.org
-mtllib ZaMonolith.mtl
-o empty_2
+o ZaMonolith
 v -69.103073 52.211109 -12.733446
 v -69.279152 52.476387 -12.226780
 v -69.559242 52.644344 -11.763135
