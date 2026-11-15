@@ -1,7 +1,6 @@
 # Blender 5.3.0
 # www.blender.org
-mtllib gmodmonolith.mtl
-o monolith_01_Sandstone_0
+o gmodmonolith
 v -0.693729 0.469410 -0.709147
 v -0.695261 -0.000000 -0.710398
 v -0.689707 0.005341 0.583456
